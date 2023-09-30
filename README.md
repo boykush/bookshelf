@@ -1,2 +1,2 @@
 # bookshelf
-Reading record by Issue
+My bookshelf by issue
