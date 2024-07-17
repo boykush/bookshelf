@@ -2,7 +2,7 @@
 name: Book
 about: Book title and cover
 title: ''
-labels: ''
+labels: Book
 assignees: ''
 
 ---
